@@ -10,7 +10,7 @@ isort==4.3.21
 lazy-object-proxy==1.4.1
 mccabe==0.6.1           
 numpy==1.16.3           
-opencv-python==3.4.6    
+opencv-python==3.4.7.28    
 pandas==0.25.0          
 pygame==1.9.6           
 pyglet==1.4.1           
